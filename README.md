@@ -21,7 +21,7 @@ A comprehensive, premium-designed web application for managing complaints in a h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TheRajveerSingh/Hostel-Complaint-Management-System.git
+   git clone https://github.com/dhwaniagarwal13/hostel-complaint-management-system-react.git
    ```
 2. Install dependencies:
    ```bash

@@ -1,0 +1,22 @@
+export const HOSTELS = [
+  "M-Block Hostel",
+  "Senbegam Hostel",
+  "ESQ-A Hostel",
+  "ESQ-B Hostel",
+  "Kalpana Chawla Hostel",
+  "Meenakshi Hostel",
+  "Malligai Hostel",
+  "Thamarai Hostel",
+  "Sanasi-C Hostel",
+  "Paari Hostel",
+  "Kaari Hostel",
+  "Oori Hostel",
+  "Adhiyaman Hostel",
+  "Nelson Mandela Hostel",
+  "Mullai Hostel",
+  "Sannasi-A Hostel",
+  "Agasthiyan Hostel",
+  "Began Hostel",
+  "International Hostel",
+  "Green Pearl Hostel"
+];
